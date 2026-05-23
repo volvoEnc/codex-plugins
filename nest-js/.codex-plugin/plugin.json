@@ -1,0 +1,36 @@
+{
+  "name": "nest-js",
+  "version": "0.1.0",
+  "description": "Guidance for designing and implementing NestJS backend projects safely and idiomatically.",
+  "author": {
+    "name": "Local developer"
+  },
+  "keywords": [
+    "nestjs",
+    "nodejs",
+    "backend",
+    "typescript",
+    "clean-architecture"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "NestJS",
+    "shortDescription": "Work on NestJS backend projects.",
+    "longDescription": "Use this plugin when designing, building, refactoring, debugging, reviewing, or testing NestJS backend applications with TypeScript and clean modular architecture.",
+    "developerName": "Local developer",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Write",
+      "Design",
+      "Review",
+      "Debug",
+      "Test"
+    ],
+    "defaultPrompt": [
+      "Design this NestJS feature before implementation.",
+      "Help me change this NestJS backend safely.",
+      "Review this NestJS module for bugs."
+    ],
+    "brandColor": "#E0234E"
+  }
+}

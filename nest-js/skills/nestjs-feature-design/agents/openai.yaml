@@ -1,0 +1,4 @@
+interface:
+  display_name: "NestJS Feature Design"
+  short_description: "Design NestJS changes before coding."
+  default_prompt: "Use $nestjs-feature-design to design this NestJS change before implementation."

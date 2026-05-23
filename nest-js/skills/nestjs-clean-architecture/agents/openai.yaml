@@ -1,0 +1,4 @@
+interface:
+  display_name: "NestJS Clean Architecture"
+  short_description: "Build clean NestJS backends."
+  default_prompt: "Use $nestjs-clean-architecture to change this NestJS backend safely."
